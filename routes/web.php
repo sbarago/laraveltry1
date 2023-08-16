@@ -15,10 +15,6 @@ use App\Http\Controllers\PagesController;
 |
 */
 
-// Route::get('/', function () {
-//     return view('welcome');
-// });
-
 // Route::get('/products', [ProductsController::class, 'index']);
 
 // Route::get('/products/{id}', 
