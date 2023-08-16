@@ -12,10 +12,6 @@ class ProductsController extends Controller
     public function index() {
 
         $title = 'First Laravel Project';
-    
-        return view('products.index', [
-            'data' => $data
-        ]);
     }
     
     public function about() {
